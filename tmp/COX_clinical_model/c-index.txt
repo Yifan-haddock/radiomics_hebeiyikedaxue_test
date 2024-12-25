@@ -1,0 +1,6 @@
+0.510
+0.597
+0.530
+0.617
+0.545
+Average C-index across 5 folds: 0.560

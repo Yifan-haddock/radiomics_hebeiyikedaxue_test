@@ -1,0 +1,6 @@
+age
+gender_male
+clinical.T.Stage
+Clinical.N.Stage
+Clinical.M.Stage
+Overall.Stage

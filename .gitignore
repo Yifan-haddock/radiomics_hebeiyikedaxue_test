@@ -1,0 +1,16 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Node dependencies
+node_modules/
+
+# Python venv
+venv/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
