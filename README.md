@@ -1,2 +1,4 @@
 # radiomics_hebeiyikedaxue_test
-A practice in applying advanced radiomics techniques to predict NSCLC survival outcomes.
+Practice in applying advanced radiomics techniques to predict NSCLC survival outcomes.
+The report is in the docx file.
+Thanks for watching.
