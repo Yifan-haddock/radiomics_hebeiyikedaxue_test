@@ -3,4 +3,4 @@ Practice in applying advanced radiomics techniques to predict NSCLC survival out
 
 The report is in the docx file.
 
-Thanks for watching. # HuggingFace 🤗 
+Thanks for watching. 🤗 
